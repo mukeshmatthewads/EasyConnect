@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811896942915",
+    "project_id": "indiannagaish007",
+    "storage_bucket": "indiannagaish007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811896942915:android:917152633191863fbb3ff6",
+        "android_client_info": {
+          "package_name": "com.example.indian_nagish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkvxZnJ9Oxwr_eIjVAamDDutgkr8YyxzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
